@@ -1,0 +1,606 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="claytonculture.com" resolutions="1x" timestamp="1497484319310">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4140962274" ref="index:work:contact:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="4115071868" ref="index:work:contact:about"/>
+    <file name="graphics.css" crc="516873506" ref="graphics"/>
+    <file name="nomq_graphics.css" crc="4153078486" ref="graphics"/>
+    <file name="index.css" crc="4255283765" ref="index"/>
+    <file name="nomq_index.css" crc="191101245" ref="index"/>
+    <file name="work.css" crc="4016760156" ref="work"/>
+    <file name="nomq_work.css" crc="27802761" ref="work"/>
+    <file name="art.css" crc="3931952602" ref="art"/>
+    <file name="nomq_art.css" crc="4179222074" ref="art"/>
+    <file name="contact.css" crc="223847154" ref="contact"/>
+    <file name="nomq_contact.css" crc="3885157547" ref="contact"/>
+    <file name="about.css" crc="13482285" ref="about"/>
+    <file name="nomq_about.css" crc="493039314" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <folder name="claybob-for-website">
+      <file name="claybob for website.swf" crc="139592209" mt="1493172894000"/>
+      <file name="claybob for website.html" crc="3957340201" mt="1493172894000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:art:about:work:contact:graphics"/>
+    <file name="museutils.js" crc="46400467" ref="index:art:about:work:contact:graphics"/>
+    <file name="whatinput.js" crc="86476730" ref="index:art:about:work:contact:graphics"/>
+    <file name="museconfig.js" crc="4273287925" ref="index:art:about:work:contact:graphics"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:art:about:work:contact:graphics"/>
+    <file name="webpro.js" crc="4152390327" ref="index:art:about:work:contact:graphics"/>
+    <file name="musewpdisclosure.js" crc="204784597" ref="index:art:about:work:contact:graphics"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:art:about:work:contact:graphics"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:art:about:work:contact:graphics"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index:art:about:work:contact:graphics"/>
+    <file name="require.js" crc="85721165" ref="index:art:about:work:contact:graphics"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="art:graphics"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="art:graphics"/>
+    <file name="touchswipe.js" crc="4228958816" ref="art:graphics"/>
+    <file name="form_check.php" crc="4286608207" ref="contact"/>
+    <file name="form_throttle.php" crc="313199896" ref="contact"/>
+    <file name="form_process.php" crc="3855659497" ref="contact"/>
+    <file name="form-u2393.php" crc="28952212" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="big-flurish.svg" crc="4219185394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="big-flurish_poster_.png" crc="262498139" ref="index"/>
+    <file name="landing-page-logo.svg" crc="4225602201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landing-page-logo_poster_.png" crc="532306884" ref="index"/>
+    <file name="flurish.svg" crc="4092374654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flurish_poster_.png" crc="3861273141" ref="index"/>
+    <file name="hammenu.svg" crc="304655615" seo="true" ref="index:art:about:work:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="hammenu_poster_.png" crc="464701727" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:art:about:work:contact:graphics"/>
+    <file name="arthero.svg" crc="3850136582" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="arthero_poster_.png" crc="4174405093" ref="art"/>
+    <file name="manweb.jpg" crc="4150550810" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="scarfweb.jpg" crc="355557634" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="timeweb.jpg" crc="3811542884" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="walkingtreesweb.jpg" crc="423117134" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="warmwintersweb.jpg" crc="3850726836" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="art:graphics"/>
+    <file name="boatweb.jpg" crc="527248828" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="gingiweb.jpg" crc="4139259504" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="leafweb.jpg" crc="530313487" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="lydiaweb.jpg" crc="4129829983" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="winterfarmweb.jpg" crc="526829137" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="manweb744x394.jpg" crc="3880115701" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="boatweb744x394.jpg" crc="527248828" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="gingiweb744x394.jpg" crc="4042192839" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="leafweb744x394.jpg" crc="4101835509" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="lydiaweb744x394.jpg" crc="407217038" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="winterfarmweb744x394.jpg" crc="4271955672" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="manweb600x318.jpg" crc="4264766128" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="scarfweb734x388.jpg" crc="250379929" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="timeweb734x388.jpg" crc="4227728888" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="walkingtreesweb734x388.jpg" crc="3838321170" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="warmwintersweb734x388.jpg" crc="261432173" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="boatweb600x318.jpg" crc="464849337" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="gingiweb600x318.jpg" crc="3906137439" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="leafweb600x318.jpg" crc="4176496896" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="lydiaweb600x318.jpg" crc="462822920" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="winterfarmweb600x318.jpg" crc="284733575" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="manweb380x202.jpg" crc="3771850270" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="scarfweb-crop-u45627.jpg" crc="4263177937" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="timeweb-crop-u45707.jpg" crc="491477757" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="walkingtreesweb-crop-u45782.jpg" crc="149078360" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="warmwintersweb-crop-u45857.jpg" crc="3838228790" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="boatweb380x202.jpg" crc="4175140506" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="gingiweb380x202.jpg" crc="4155510570" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="leafweb380x202.jpg" crc="4144501729" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="lydiaweb380x202.jpg" crc="4079957507" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="winterfarmweb380x202.jpg" crc="4164035953" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="manweb273x145.jpg" crc="4147143170" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="scarfweb-crop-u456272.jpg" crc="4283847614" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="timeweb-crop-u457072.jpg" crc="139477710" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="walkingtreesweb-crop-u457822.jpg" crc="282709146" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="warmwintersweb-crop-u458572.jpg" crc="4049220533" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="boatweb273x145.jpg" crc="3929959697" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="gingiweb273x145.jpg" crc="4261007580" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="leafweb273x145.jpg" crc="4100399430" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="lydiaweb273x145.jpg" crc="175879892" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="winterfarmweb273x145.jpg" crc="3847106519" seo="true" ref="art">
+      <caption webpage="art" alt=""/>
+    </file>
+    <file name="profile.jpg" crc="310336467" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile643x651.jpg" crc="4047848557" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile506x512.jpg" crc="359236540" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile470x476.jpg" crc="37648433" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile424x430.jpg" crc="4243537009" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile382x387.jpg" crc="3995299382" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile362x366.jpg" crc="3845142897" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile529x535.jpg" crc="3790929603" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile250x252.jpg" crc="4016127281" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile221x224.jpg" crc="3905467950" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile320x324.jpg" crc="3890563182" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile314x317.jpg" crc="170869577" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="profile201x203.jpg" crc="272065785" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="art.svg" crc="528763889" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="art_poster_.png" crc="3789622193" ref="work"/>
+    <file name="graphic.svg" crc="335824970" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="graphic_poster_.png" crc="366932213" ref="work"/>
+    <file name="wave.png" crc="262495541" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="graphics_3.svg" crc="365952630" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="graphics_3_poster_.png" crc="173102734" ref="graphics"/>
+    <file name="hammenu3.svg" crc="41642156" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="hammenu3_poster_.png" crc="103402294" ref="graphics"/>
+    <file name="clearvision.png" crc="534749081" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="inspiration_poster_.png" crc="28242185" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 1.jpg" crc="4114021953" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 2.jpg" crc="4176638740" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 3.jpg" crc="263036072" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 4.jpg" crc="427997567" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 5.jpg" crc="3823001635" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 6.jpg" crc="233375817" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 7.jpg" crc="353885687" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 8.jpg" crc="3899177184" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 9.jpg" crc="172363347" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 10.jpg" crc="110383887" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="road-crop-u27856.jpg" crc="324652147" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="road-crop-u278562.jpg" crc="324652147" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="road-crop-u278563.jpg" crc="324652147" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="road-crop-u278564.jpg" crc="324652147" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="road-crop-u278565.jpg" crc="4009596830" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 1600x318.jpg" crc="4159922380" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 2600x318.jpg" crc="25780681" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 3600x318.jpg" crc="93409909" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 4600x318.jpg" crc="349125397" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 5600x297.jpg" crc="168423536" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 6600x318.jpg" crc="225994720" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 7600x318.jpg" crc="4003417584" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 8600x318.jpg" crc="454409365" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 9600x318.jpg" crc="3933190553" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 10600x318.jpg" crc="4067217293" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="road601x401.jpg" crc="4251103607" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 1380x202.jpg" crc="3905377405" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 2380x202.jpg" crc="4039840972" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 3380x202.jpg" crc="391002169" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 4380x202.jpg" crc="5198251" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 5380x188.jpg" crc="4159961552" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 6380x202.jpg" crc="3810222496" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 7380x202.jpg" crc="180977346" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 8380x202.jpg" crc="255138233" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 9380x202.jpg" crc="4250273472" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 10380x202.jpg" crc="4107729776" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="road-crop-u278566.jpg" crc="404133191" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 1273x145.jpg" crc="480993143" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 2273x145.jpg" crc="4079114967" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 3273x145.jpg" crc="3784552666" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 4273x145.jpg" crc="3885480660" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 5273x135.jpg" crc="448890052" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 6273x145.jpg" crc="507938245" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 7273x145.jpg" crc="446378552" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 8273x145.jpg" crc="525912239" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 9273x145.jpg" crc="178203472" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="portfolioweb 10273x145.jpg" crc="4267939497" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="road-crop-u278567.jpg" crc="3903884309" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3782677191" seo="true" mt="1497483729944" redirect="true"/>
+  <file name="art.html" crc="420094804" seo="true" mt="1497479170207" redirect="true"/>
+  <file name="about.html" crc="4017817296" seo="true" mt="1497483729944" redirect="true"/>
+  <file name="work.html" crc="3862371326" seo="true" mt="1497483729944" redirect="true"/>
+  <file name="contact.html" crc="133507570" seo="true" mt="1497483729944" redirect="true"/>
+  <file name="graphics.html" crc="485425970" seo="true" mt="1497483610631" redirect="true"/>
+</manifest>
